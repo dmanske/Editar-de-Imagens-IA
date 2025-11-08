@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Image Studio",
+  "description": "An application to generate multiple images from a text prompt using AI. It allows users to save their favorite prompts and get AI-powered suggestions to enhance their creative ideas.",
+  "requestFramePermissions": []
+}
